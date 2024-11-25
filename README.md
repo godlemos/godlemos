@@ -41,7 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloslemos&show_icons=true&theme=dark&locale=es&layout=compact" alt="carloslemos" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carloslemos&show_icons=true&theme=dark&locale=es" alt="carloslemos" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carloslemos&show_icons=true&theme=dark&locale=es&custom_title=Contribuciones%20totales:%205" alt="carloslemos" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=carloslemos&theme=dark" alt="carloslemos" /></p>
